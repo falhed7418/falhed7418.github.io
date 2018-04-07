@@ -1,47 +1,22 @@
-# Project Gaia
+## HCZ Material theme
 
-## Demo Page
+This is a simple personal material theme, best suited for personal authors, programmars, bloggers. 
 
-[ Demo Page](https://szhielelp.github.io/JekyllTheme-ProjectGaia/#/)
+### Demo
+* [https://codeasashu.github.io/hcz-jekyll-blog](https://codeasashu.github.io/hcz-jekyll-blog/)
 
-## Documents
+#### Feature
 
-[    Documents    ](https://szhielelp.github.io/JekyllTheme-ProjectGaia-Docs/#/)
+* Sitemap and XML Feed
+* Site Search 
+* Projects and tags
+* Paginations in homepage
+* Posts under category
+* Related Posts
+* Highlight pre
+* Next & Previous Post
+* Disqus comment
 
+#### Screenshot
 
-## Change Log
-
-
-- **Mar 3rd 2018**
-Fixed critical styles issues
-
-- **Mar 1st 2018**
-Updated sidebar to a smooth style.
-
-- **Dec 20th 2017**
-Integrated Lightbox
-
-- **Dec 19th 2017**
-Added post searchbox
-
-- **Aug 20th, 2017**
-Added post plugin configuration
-
-- **May 30th, 2017**
-Added a reading progressbar for post page.
-
-- **May 6th, 2017**
-Updated font page
-Added global font style
-
-- **Apr 3nd, 2017**
-Added new font
-
-- **Mar 5th, 2017**
-Style updated
-
-- **Mar 1st, 2017**
-TOC plugin updated
-
-- **Feb 28th, 2017**
-Rebuild to include **Bootstrap 4-Alpha** and **JQuery 3**
+![Screenshot Home Page](https://raw.githubusercontent.com/ashutosh2k12/jekyllthemes/master/thumbnails/hcz-material.png  "Screenshot Home Page")
