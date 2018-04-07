@@ -1,21 +1,21 @@
-title: John Smith
+title: UK
 description: My Personal Blog
-author: John Smith
+author: kiuk jung
 logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
-about: Freelance developer
+github: https://github.com/falhed7418
+about: developer
 
-baseurl: "https://codeasashu.github.io/hcz-jekyll-blog"
-url: "https://codeasashu.github.io/hcz-jekyll-blog"
+baseurl: "https://falhed7418.github.io/"
+url: "https://falhed7418.github.io/"
 
 allowsearch: true
 
-disqus_shortname: aboutashu
-google_analytics: UA-72862926-1
+disqus_shortname:
+google_analytics:
 
 share:
   twitter_username: \#
-  fb_appid: 000000000000
+  fb_appid:
 
 
 enableTags: true
